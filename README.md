@@ -1,6 +1,6 @@
-#Title: Exploratory Data Analysis of Amazon Customer Behavior
+# Title: Exploratory Data Analysis of Amazon Customer Behavior
 
-Description:
+### Description:
 I recently conducted an Exploratory Data Analysis (EDA) on Amazon customer behavior using a dataset from Kaggle. The code and analysis were performed in a Jupyter Notebook, and I would like to share some key findings and insights from the analysis.
 
 Summary:
